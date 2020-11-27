@@ -8,6 +8,8 @@
 
 ![Image Of Flowers](http://p1.pstatp.com/large/pgc-image/15232570534090485cdaf3f)
 
+大道中國
+[Demo APK](SuperChina.apk)
 
 黑猫警長
 [Demo APK](BlackCatSheriff.apk)
