@@ -1,9 +1,20 @@
 # portfolio
 個人參與的作品集
 
+
+花花世界
+
+[相關資訊網頁](https://www.playmore.com.cn/displaynews.html?newsID=592375&ntid=33755)
+
+![Image Of Flowers](http://p1.pstatp.com/large/pgc-image/15232570534090485cdaf3f)
+
+
+
+
+
 奔跑吧兄弟
 
-[相關資訊網頁](https://baike.baidu.com/item/%E6%AC%B2%E4%BB%99)
+[相關資訊網頁](https://baike.baidu.com/item/%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%84%E5%BC%9F/18780507)
 
 ![Image Of RunningMan](http://pic.downyi.com/upload/2017-11/20171131740291082.jpg)
 ![Image Of RunningMan2](http://photocdn.sohu.com/20150417/Img411423203.jpg)
