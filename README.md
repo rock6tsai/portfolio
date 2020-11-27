@@ -1,6 +1,14 @@
 # portfolio
 個人參與的作品集
 
+奔跑吧兄弟
+
+[相關資訊網頁](https://baike.baidu.com/item/%E6%AC%B2%E4%BB%99)
+
+![Image Of RunningMan](http://pic.downyi.com/upload/2017-11/20171131740291082.jpg)
+![Image Of RunningMan2](http://photocdn.sohu.com/20150417/Img411423203.jpg)
+
+
 欲仙
 
 [相關資訊網頁](https://baike.baidu.com/item/%E6%AC%B2%E4%BB%99)
