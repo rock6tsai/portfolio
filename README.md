@@ -1,6 +1,28 @@
 # portfolio
 個人參與的作品集
 
+欲仙
+
+[相關資訊網頁](https://baike.baidu.com/item/%E6%AC%B2%E4%BB%99)
+
+![Image Of YUXAIN](http://www.yxzoo.com/uploads/allimg/140519/1-1405191TR4.jpg)
+
+
+戰仙界
+
+[相關資訊網頁](http://games.ifeng.com/webgame/news/guoneizixun/detail_2010_12/16/3540870_0.shtml)
+
+![Image Of WebZXJ](http://res.games.ifeng.com/attachments/2010/12/16/680e918ae33995e4411e1cd8c4217d53.jpg)
+
+
+曙光Online
+
+[相關資訊網頁](http://www.gamebase.com.tw/wekey/%E6%9B%99%E5%85%89Online/)
+
+![Image of HBO1](https://i.gbc.tw/gb_img/3/000/848/848513.jpg)
+![Image of HBO2](https://i.gbc.tw/gb_img/2/000/848/848512.jpg)
+
+
 Fighting Club
 
 [相關資訊網頁](https://www.highwaygames.com/arcade-machines/fighting-club-8212/)
