@@ -57,7 +57,7 @@
 [相關資訊網頁1](https://www.highwaygames.com/arcade-machines/crazy-dancing-7773/)
 [相關資訊網頁2](https://flyers.arcade-museum.com/?page=flyer&db=videodb&id=3523&image=1)
 
-![Image of Crazy Dancing](https://www.highwaygames.com/arcade-machines/images/crazy-dancing-17807-7773.jpg)
+![Image of Crazy Dancing](Pictures/crazy-dancing-17807-7773.jpg)
 
 
 # 天使之約
