@@ -52,10 +52,10 @@
 
 # 曙光Online
 
-[相關資訊網頁](http://www.gamebase.com.tw/wekey/%E6%9B%99%E5%85%89Online/)
+[相關資訊網頁](https://baike.baidu.com/item/%E6%9B%99%E5%85%89Online/494576)
 
-![Image of HBO1](https://i.gbc.tw/gb_img/3/000/848/848513.jpg)
-![Image of HBO2](https://i.gbc.tw/gb_img/2/000/848/848512.jpg)
+![Image of HBO1](Pictures/HBOnline1.jfif)
+![Image of HBO2](Pictures/HBOnline2.jfif)
 
 
 # Fighting Club
