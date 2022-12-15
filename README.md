@@ -11,7 +11,6 @@
 <img src="Pictures/ShumpUp2.jpg" width="720" height="1280>
 
 # 花花世界
-
 <!--
 [相關資訊網頁](https://www.playmore.com.cn/displaynews.html?newsID=592375&ntid=33755)
 ![Image Of Flowers](http://p1.pstatp.com/large/pgc-image/15232570534090485cdaf3f)
