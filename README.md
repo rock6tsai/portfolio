@@ -7,14 +7,17 @@
 
 使用 Unity ECS, New Input System, URP 
 
-<img src="Pictures/ShumpUp1.jpg" width="144" height="256">
-![Image of ShumpUp2](Pictures/ShumpUp2.jpg)
+<img src="Pictures/ShumpUp1.jpg" width="720" height="1280">
+<img src="Pictures/ShumpUp2.jpg" width="720" height="1280>
 
 # 花花世界
 
+<!--
 [相關資訊網頁](https://www.playmore.com.cn/displaynews.html?newsID=592375&ntid=33755)
-
 ![Image Of Flowers](http://p1.pstatp.com/large/pgc-image/15232570534090485cdaf3f)
+-->
+[发行公司](www.playmore.com.cn), 产品已从该发行公司的产品线下架
+<img src="Pictures/Flowers.jpg">
 
 # 大道中國
 [Android Demo APK](Unity/SuperChina.apk)
