@@ -7,7 +7,7 @@
 
 使用 Unity ECS, New Input System, URP 
 
-![Image of ShumpUp1](Pictures/ShumpUp1.jpg width="144" height="256")
+<img src="Pictures/ShumpUp1.jpg" width="144" height="256">
 ![Image of ShumpUp2](Pictures/ShumpUp2.jpg)
 
 # 花花世界
