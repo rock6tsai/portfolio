@@ -9,9 +9,9 @@ Unity
 即时策略
 游戏原型研发
 
-<img src="Pictures/TempusCross1.jpg" width="1920" height="864">
-<img src="Pictures/TempusCross2.jpg" width="1920" height="864">
-<img src="Pictures/TempusCross3.jpg" width="1920" height="864">
+<img src="Pictures/TempusCross1.png" width="1920" height="864">
+<img src="Pictures/TempusCross2.png" width="1920" height="864">
+<img src="Pictures/TempusCross3.png" width="1920" height="864">
 [TempusCross Video]]("Pictures/TempusCross(FreeMove).mp4")
 
 # ShumpUp
