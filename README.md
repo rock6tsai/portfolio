@@ -9,10 +9,10 @@ Unity
 即时策略
 游戏原型研发
 
-<img src="Pictures/TempusCross1.png" width="1920" height="864">
-<img src="Pictures/TempusCross2.png" width="1920" height="864">
-<img src="Pictures/TempusCross3.png" width="1920" height="864">
-[TempusCross Video]]("Pictures/TempusCross(FreeMove).mp4")
+<img src="Pictures/TempusCross1.png">
+<img src="Pictures/TempusCross2.png">
+<img src="Pictures/TempusCross3.png">
+[TempusCross Video]]("[Pictures/TempusCross(FreeMove).mp4](https://youtu.be/jFbOxxVvOpE)")
 
 # ShumpUp
 [Android Demo APK](Unity/ShumpUp.apk)
