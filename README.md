@@ -2,17 +2,33 @@
 個人參與的作品集
 
 
+# TempusCross
+
+2022
+Unity
+即时策略
+游戏原型研发
+
+<img src="Pictures/TempusCross1.jpg" width="1920" height="864">
+<img src="Pictures/TempusCross2.jpg" width="1920" height="864">
+<img src="Pictures/TempusCross3.jpg" width="1920" height="864">
+[TempusCross Video]]("Pictures/TempusCross(FreeMove).mp4")
+
 # ShumpUp
 [Android Demo APK](Unity/ShumpUp.apk)
 
+2021/03
 使用 Unity ECS, New Input System, URP 
+学习 Unity 新引入的 DOTS 技术, 利用 ECS 架构来完成一个有大量子弹的物件移动.
 
 <img src="Pictures/ShumpUp1.jpg" width="720" height="1280">
 <img src="Pictures/ShumpUp2.jpg" width="720" height="1280">
 
 
 # 花花世界
+
 [发行公司](www.playmore.com.cn), 产品已从该发行公司的产品线下架
+
 <img src="Pictures/Flowers.jpg">
 
 
