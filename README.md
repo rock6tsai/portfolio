@@ -93,6 +93,7 @@ Unity
 
 # 天使之約
 [相關資訊網頁](https://www.ithome.com.tw/node/9613)
+[相關資訊網頁](https://chiuinan.github.io/game/game/intro/ch/c33/dwangel.htm)
 
 ![Image of Date with An Angel](https://cf.shopee.tw/file/83f77ba74dc54e3f54db606ffb89deb9)
 
